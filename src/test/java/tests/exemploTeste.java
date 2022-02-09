@@ -83,7 +83,7 @@ public class exemploTeste {
         browser.findElement(By.id("senha")).sendKeys("abcdefg");
         browser.findElement(By.id("privacidade")).click();
         browser.findElement(By.id("servico")).click();
-        browser.findElement(By.id("propaganda")).click();
+        //browser.findElement(By.id("propaganda")).click();
         browser.findElement(By.id("b-salvar")).click();
 
         //Scroll de Tela
